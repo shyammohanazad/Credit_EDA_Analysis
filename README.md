@@ -1,1 +1,1 @@
-This Repository contains Sample Projects in DataScience using python. 
+This Repository contains Projects in DataScience using python. 
